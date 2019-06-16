@@ -1,0 +1,35 @@
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\bin\Debug\interfazDWM.exe.config
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\bin\Debug\interfazDWM.exe
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\bin\Debug\interfazDWM.pdb
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csprojAssemblyReference.cache
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.menuDWM.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Properties.Resources.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csproj.GenerateResource.cache
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.exe
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.pdb
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Movimientos.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Cuentas.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Operaciones.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\bin\Debug\interfazDWM.exe.config
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.exe
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.pdb
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\bin\Debug\interfazDWM.exe
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\bin\Debug\interfazDWM.pdb
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Cuentas.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.menuDWM.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Movimientos.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Operaciones.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Properties.Resources.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csproj.GenerateResource.Cache
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.panelContenedor.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.agregarCategoria.resources
+C:\Users\steve\Documents\Visual Studio 2015\Projects\interfazDWM\interfazDWM\obj\Debug\interfazDWM.panCategoria.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.panCategoria.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.agregarCategoria.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.panelContenedor.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.Vista.vtnIngreso.resources
+C:\Users\Guille\Documents\UCA\Ciclo 03\POO\proyecto\interfazDWM\interfazDWM\obj\Debug\interfazDWM.csproj.CopyComplete
